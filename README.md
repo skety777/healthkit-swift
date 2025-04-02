@@ -1,5 +1,7 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="HealthKit_Swift_Demo_0"></a>HealthKit Swift Demo</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">This demo app showcases how to integrate Apple’s HealthKit framework in an iOS application. It allows reading health data, such as step count, heart rate, walking/running distance, and body mass.</p>
+![hippo](https://github.com/skety777/healthkit-swift/blob/main/preview.gif)
+
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Features_4"></a>Features</h2>
 <ul>
 <li class="has-line-data" data-line-start="6" data-line-end="7">Request permissions to access HealthKit data</li>
