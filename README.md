@@ -47,7 +47,6 @@
         HKQuantityType.quantityType(<span class="hljs-keyword">for</span>Identifier: .distanceWalkingRunning),
         HKQuantityType.quantityType(<span class="hljs-keyword">for</span>Identifier: .bodyMass)
     ].compactMap { <span class="hljs-variable">$0</span> } // Remove any nil values
-    
     <span class="hljs-built_in">return</span> Set(types)
 }
 </code></pre>
